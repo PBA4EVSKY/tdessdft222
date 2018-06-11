@@ -10,7 +10,6 @@ gfggghhghgghfhg
 <?php
 if ($value == '1') {
 	exit;
-	echo "майнкрасофт пидоры";
 }
 ?>
 </body>
